@@ -107,4 +107,10 @@ var hacktobermap = [
     latitude: 47.94901,
     longitude: 16.8417 
   }, 
+  {
+    name: "Kate Jody",
+    location: "California, CA",
+    latitude: 43.94901,
+    longitude: -76.8417 
+  }, 
 ];
